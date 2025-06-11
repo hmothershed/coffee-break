@@ -2,6 +2,8 @@
 
 **Coffee Break** is a simple, interactive front-end project that offers a calming animation of coffee filling up when you press and hold a button. It's a lighthearted, visually engaging experience that lets you "take a coffee break" with a fun pixel-art style.
 
+![Coffee Break Demo](demo.gif)
+
 ### ★─── ⋆⋅ ★ FEATURES ★ ⋅⋆ ───★
 - **Hold-to-fill animation** using a series of progressively filled coffee cup images
 - **Minimal UI** with nostalgic pixel-style fonts and soft pastel colors
