@@ -5,7 +5,7 @@
 ### ★─── ⋆⋅ ★ FEATURES ★ ⋅⋆ ───★
 - **Hold-to-fill animation** using a series of progressively filled coffee cup images
 - **Minimal UI** with nostalgic pixel-style fonts and soft pastel colors
-- Responsive layout
+- ⚠️~~Responsive layout~~ (need to improve responsiveness)
 - **Shrink/Expand and Close/Open** container controls for desktop-like behavior
 
 ### ★─── ⋆⋅ ★ TECH STACK ★ ⋅⋆ ───★
