@@ -1,6 +1,5 @@
 :root {
     /* colors */
-    --color-page-background: #50AFC9;
     --color-main-container-background: #775141;
     --color-inner-container-background: #FFF7F4;
     --color-border: #6A4130;
@@ -40,8 +39,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--color-page-background) var(--image-path-background) bottom center no-repeat;
-    background-size: 100% auto;     /* desktop */
+    background: var(--image-path-background) center center no-repeat;
+    background-size: cover;     /* desktop */
 }
 
 h1 {
@@ -228,7 +227,7 @@ header {
 @media (max-width: 768px) {
     body {
       background-size: cover;
-      background-position: bottom center;
+      background-position: center center;
     }
   
     .container {
